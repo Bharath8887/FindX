@@ -2,7 +2,7 @@
 
 FindX is an enterprise agentic RAG prototype with a FastAPI backend and a React frontend. It combines JWT authentication, MongoDB-based user storage, ChromaDB vector search, sentence-transformer embeddings, and Groq-powered answer generation.
 
-The current system focuses on :
+The current system focuses on:
 
 - secure login with roles
 - role-based access control at the API layer
